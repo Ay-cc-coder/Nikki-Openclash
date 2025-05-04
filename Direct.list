@@ -11,6 +11,13 @@ DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,crabpt.vip
 DOMAIN-SUFFIX,idsduf.com
 DOMAIN-SUFFIX,ptfans.cc
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxab.net
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxservice.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,gamepass.com
 
 
 # 域名关键字匹配
@@ -22,6 +29,7 @@ DOMAIN-KEYWORD,crabpt
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+
 
 # Unbreak 白名单 不应该被广告链接的网站
 
