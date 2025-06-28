@@ -1,2 +1,2 @@
 # Nikki-Openclash
-分流规则，自用
+自用的分流规则
