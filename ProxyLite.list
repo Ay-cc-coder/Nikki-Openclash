@@ -1,7 +1,7 @@
 # 完整域名匹配，代理
 DOMAIN,kp.m-team.cc
 DOMAIN,hdsky.me
-DOMAIN,ptskit.org
+DOMAIN,www.ptskit.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,2nest.top
