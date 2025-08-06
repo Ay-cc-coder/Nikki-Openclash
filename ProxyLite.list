@@ -1,5 +1,7 @@
-# 代理补充列表
-
+# 完整域名匹配，代理
+DOMAIN,kp.m-team.cc
+DOMAIN,hdsky.me
+DOMAIN,ptskit.org
 # 域名后缀匹配
 DOMAIN-SUFFIX,2nest.top
 DOMAIN-SUFFIX,icc2022.com
@@ -12,7 +14,6 @@ DOMAIN-SUFFIX,zqbb.cf
 DOMAIN-SUFFIX,modelmediaasia.com
 DOMAIN-SUFFIX,openwebui.com
 DOMAIN-SUFFIX,ollama.ai
-DOMAIN-SUFFIX,ptskit.org
 DOMAIN-SUFFIX,17lai.site
 DOMAIN-SUFFIX,reddit.com
 
@@ -24,4 +25,3 @@ DOMAIN-KEYWORD,razerid
 # IP段匹配
 IP-CIDR,114.33.130.0/24
 
-    
