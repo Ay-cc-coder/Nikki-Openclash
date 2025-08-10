@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,openwebui.com
 DOMAIN-SUFFIX,ollama.ai
 DOMAIN-SUFFIX,17lai.site
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,vmware.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
