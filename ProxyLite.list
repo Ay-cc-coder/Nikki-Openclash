@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,hex-rays.com
 DOMAIN-SUFFIX,hibitsoft.ir
 DOMAIN-SUFFIX,yst.onl
+DOMAIN-SUFFIX,appds.vip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
