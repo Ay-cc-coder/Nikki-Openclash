@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,hex-rays.com
 DOMAIN-SUFFIX,hibitsoft.ir
+DOMAIN-SUFFIX,yst.onl
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
