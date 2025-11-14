@@ -5,6 +5,9 @@ DOMAIN,crabpt.vip
 DOMAIN,ptskit.kqbhek.com
 DOMAIN,b1.nel.goog
 DOMAIN,api.ip.sb
+DOMAIN,hongxingyun.xyz
+DOMAIN,apple-bing.sbs
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
@@ -20,6 +23,17 @@ DOMAIN-SUFFIX,cdnxxx-proxy.co
 DOMAIN-SUFFIX,jmdanjonproxy.vip
 DOMAIN-SUFFIX,istoreos.com
 DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,bdytul.com
+DOMAIN-SUFFIX,hongxingdl.vip
+DOMAIN-SUFFIX,redapricotcandy.com
+DOMAIN-SUFFIX,alipoly.sbs
+DOMAIN-SUFFIX,huawei-cloud.vip
+DOMAIN-SUFFIX,whtjdasha.com
+DOMAIN-SUFFIX,jueduibupao.top
+DOMAIN-SUFFIX,xxxyun.top
+DOMAIN-SUFFIX,jueduibupao.top
+DOMAIN-SUFFIX,6bnw.top
+DOMAIN-SUFFIX,ufycjnv68ieo8w526einc.info
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -31,3 +45,4 @@ DOMAIN-KEYWORD,bt2
 # IP段匹配
 IP-CIDR,119.247.184.0/24
 IP-CIDR,183.36.41.192/32
+IP-CIDR,43.139.213.75/32
