@@ -1,6 +1,6 @@
 # 完整域名匹配，代理
 DOMAIN,www.ptskit.org
-
+DOMAIN,tz.nas.ge
 # 域名后缀匹配
 DOMAIN-SUFFIX,2nest.top
 DOMAIN-SUFFIX,icc2022.com
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,iconscout.com
 DOMAIN-SUFFIX,streamlinehq.com
 DOMAIN-SUFFIX,poly-gf.com
 DOMAIN-SUFFIX,obsidian.md
-DOMAIN-SUFFIX,nas.ge
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
