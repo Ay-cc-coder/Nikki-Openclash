@@ -1,6 +1,7 @@
 # 完整域名匹配，代理
 DOMAIN,www.ptskit.org
 DOMAIN,tz.nas.ge
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,2nest.top
 DOMAIN-SUFFIX,icc2022.com
