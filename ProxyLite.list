@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,s.ntoskr.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,brainhost.ai
 DOMAIN-SUFFIX,jtti.cc
+DOMAIN-SUFFIX,smtp.gmail.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
