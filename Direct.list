@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,xingyungept.org
 DOMAIN-SUFFIX,bilibili.download
 DOMAIN-SUFFIX,sewerpt.com
 DOMAIN-SUFFIX,gamegamept.com
+DOMAIN-SUFFIX,liseng.top
+
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tracker
