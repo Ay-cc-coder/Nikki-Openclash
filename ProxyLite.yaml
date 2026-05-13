@@ -43,7 +43,6 @@ payload:
   - DOMAIN-SUFFIX,joeyblog.net
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,ntop.org
-  - DOMAIN,liseng.top
 
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
