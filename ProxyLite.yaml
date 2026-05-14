@@ -2,7 +2,7 @@
 payload:
   # 完整域名匹配
   - DOMAIN,tz.nas.ge
-
+  - DOMAIN,api.thetvdb.com
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
   - DOMAIN-SUFFIX,icc2022.com
@@ -43,7 +43,6 @@ payload:
   - DOMAIN-SUFFIX,joeyblog.net
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,ntop.org
-
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,debian
