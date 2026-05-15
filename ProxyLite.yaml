@@ -48,6 +48,7 @@ payload:
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,debian
   - DOMAIN-KEYWORD,razerid
+  - DOMAIN-KEYWORD,battlenet
 
   # IP段匹配
   - IP-CIDR,114.33.130.0/24,no-resolve
