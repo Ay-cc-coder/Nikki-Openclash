@@ -44,6 +44,9 @@ payload:
   - DOMAIN-SUFFIX,joeyblog.net
   - DOMAIN-SUFFIX,movie-pilot.org
   - DOMAIN-SUFFIX,ntop.org
+  - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,llama.com
+  
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,debian

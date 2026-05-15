@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,sewerpt.com
   - DOMAIN-SUFFIX,gamegamept.com
   - DOMAIN-SUFFIX,tangpt.top
+  - DOMAIN-SUFFIX,steamcontent.com
 
   # 域名关键字匹配
   - DOMAIN-KEYWORD,baidu
