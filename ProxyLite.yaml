@@ -3,6 +3,7 @@ payload:
   # 完整域名匹配
   - DOMAIN,tz.nas.ge
   - DOMAIN,api.thetvdb.com
+
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
   - DOMAIN-SUFFIX,icc2022.com
