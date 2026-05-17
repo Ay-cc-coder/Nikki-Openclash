@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,ntop.org
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,llama.com
+  - DOMAIN-SUFFIX,meiguodizhi.com
   
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
