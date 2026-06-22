@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,meiguodizhi.com
+  - DOMAIN,98t.la
   
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
