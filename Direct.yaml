@@ -10,6 +10,7 @@ payload:
   - DOMAIN,apple-bing.sbs
   - DOMAIN,pt.xingyungept.org
   - DOMAIN,myip.net
+  - DOMAIN,api.m-team.io
 
 
   # 域名后缀匹配
