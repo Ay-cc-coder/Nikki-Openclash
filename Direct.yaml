@@ -10,7 +10,7 @@ payload:
   - DOMAIN,apple-bing.sbs
   - DOMAIN,pt.xingyungept.org
   - DOMAIN,myip.net
-
+  - DOMAIN,ai.superdoor.top
 
   # 域名后缀匹配
   - DOMAIN-SUFFIX,time.windows.com
