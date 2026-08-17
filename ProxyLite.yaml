@@ -5,6 +5,7 @@ payload:
   - DOMAIN,api.thetvdb.com
   - DOMAIN,www.98t.la
   - DOMAIN,api.m-team.io
+  - DOMAIN,ai.superdoor.top
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
