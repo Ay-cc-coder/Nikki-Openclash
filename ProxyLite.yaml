@@ -6,6 +6,7 @@ payload:
   - DOMAIN,www.98t.la
   - DOMAIN,api.m-team.io
   - DOMAIN,ai.superdoor.top
+  - DOMAIN,rootless.002599.xyz
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
