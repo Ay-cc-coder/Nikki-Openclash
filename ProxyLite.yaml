@@ -6,7 +6,9 @@ payload:
   - DOMAIN,www.98t.la
   - DOMAIN,api.m-team.io
   - DOMAIN,ai.superdoor.top
-
+  - DOMAIN,jiekou.ai
+  - DOMAIN,yunwu.ai
+  
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
   - DOMAIN-SUFFIX,icc2022.com
@@ -51,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,llama.com
   - DOMAIN-SUFFIX,meiguodizhi.com
   - DOMAIN-SUFFIX,002599.xyz
+
 
   
   # 域名关键字匹配
