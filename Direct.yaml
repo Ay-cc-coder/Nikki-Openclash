@@ -2,7 +2,6 @@
 payload:
   # 完整域名匹配
   - DOMAIN,hdsky.me
-  - DOMAIN,kp.m-team.cc
   - DOMAIN,crabpt.vip
   - DOMAIN,b1.nel.goog
   - DOMAIN,api.ip.sb
