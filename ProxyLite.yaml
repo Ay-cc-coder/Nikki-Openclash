@@ -7,6 +7,7 @@ payload:
   - DOMAIN,ai.superdoor.top
   - DOMAIN,jiekou.ai
   - DOMAIN,yunwu.ai
+  - DOMAIN,pt.xingyungept.org
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
