@@ -7,6 +7,7 @@ payload:
   - DOMAIN,ai.superdoor.top
   - DOMAIN,jiekou.ai
   - DOMAIN,yunwu.ai
+  - DOMAIN,fr1.halomt.com
   - DOMAIN,pt.xingyungept.org
   
   # 域名后缀匹配
@@ -54,7 +55,7 @@ payload:
   - DOMAIN-SUFFIX,meiguodizhi.com
   - DOMAIN-SUFFIX,002599.xyz
   - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,fr1.halomt.com
+
 
   # 成人刮削所需代理域名第一条为完整域名
   - DOMAIN,www.avbase.net
