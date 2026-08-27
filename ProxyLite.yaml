@@ -55,6 +55,33 @@ payload:
   - DOMAIN-SUFFIX,002599.xyz
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,fr1.halomt.com
+
+  # 成人刮削所需代理域名第一条为完整域名
+  - DOMAIN,www.avbase.net
+  - DOMAIN,www.caribbeancom.com
+  - DOMAIN,www.dmm.co.jp
+  - DOMAIN,www.javlibrary.com
+  - DOMAIN,www.javlibrary.cn
+  - DOMAIN,www.mgstage.com
+  - DOMAIN,www.javbus.com
+  - DOMAIN,www.jav321.com
+
+  - DOMAIN-SUFFIX,avmoo.website
+  - DOMAIN-SUFFIX,airav.io
+  - DOMAIN-SUFFIX,avsox.click
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,javten.com
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,madou.club
+  - DOMAIN-SUFFIX,madouqu.com
+  - DOMAIN-SUFFIX,freejavbt.com
+  - DOMAIN-SUFFIX,missav123.com
+  - DOMAIN-SUFFIX,7mmtv.sx
+  - DOMAIN-SUFFIX,7mmtv.zh
+  - DOMAIN-SUFFIX,hbox.jp
+  - DOMAIN-SUFFIX,xchina.co
+  - DOMAIN-SUFFIX,api.theporndb.net
+
   # 域名关键字匹配
   - DOMAIN-KEYWORD,1e100
   - DOMAIN-KEYWORD,debian
