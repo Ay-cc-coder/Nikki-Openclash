@@ -9,6 +9,7 @@ payload:
   - DOMAIN,yunwu.ai
   - DOMAIN,fr1.halomt.com
   - DOMAIN,pt.xingyungept.org
+  - DOMAIN,agentrouter.org
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
