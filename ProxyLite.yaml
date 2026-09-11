@@ -10,6 +10,7 @@ payload:
   - DOMAIN,pt.xingyungept.org
   - DOMAIN,agentrouter.org
   - DOMAIN,pt.xingyungept.org
+  - DOMAIN,ai.superdoor.top
   
   # 域名后缀匹配
   - DOMAIN-SUFFIX,2nest.top
