@@ -9,7 +9,7 @@ payload:
   - DOMAIN,apple-bing.sbs
   - DOMAIN,myip.net
   - DOMAIN,ai.superdoor.top
-  
+
   # 域名后缀匹配
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,lanzov.com
@@ -34,7 +34,6 @@ payload:
   - DOMAIN-SUFFIX,xxxyun.top
   - DOMAIN-SUFFIX,6bnw.top
   - DOMAIN-SUFFIX,ufycjnv68ieo8w526einc.info
-  - DOMAIN-SUFFIX,xingyungept.org
   - DOMAIN-SUFFIX,bilibili.download
   - DOMAIN-SUFFIX,sewerpt.com
   - DOMAIN-SUFFIX,gamegamept.com
