@@ -60,7 +60,9 @@ payload:
   - DOMAIN-SUFFIX,yyzq.gq
   - DOMAIN,roothide.com
   - DOMAIN,m-team.io
-
+  - DOMAIN,hvoyai.com
+  - DOMAIN,lingsuan.top
+  
   # 成人刮削所需代理域名第一条为完整域名
   - DOMAIN,www.avbase.net
   - DOMAIN,www.caribbeancom.com
