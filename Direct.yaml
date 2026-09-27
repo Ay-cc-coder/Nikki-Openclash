@@ -9,7 +9,8 @@ payload:
   - DOMAIN,apple-bing.sbs
   - DOMAIN,myip.net
   - DOMAIN,ai.superdoor.top
-
+  - DOMAIN,invite.linuxdo.org
+  
   # 域名后缀匹配
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,lanzov.com
